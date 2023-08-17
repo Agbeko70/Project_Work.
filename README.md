@@ -1,2 +1,6 @@
 # Project_Work.
 LOG IN AND REGISTRATION SYSTEM
+Agbeko Christian
+UEB3249722
+Bsc. Information Technology
+LOG IN AND REGISTRATION SYSTEM
